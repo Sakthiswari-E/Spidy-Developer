@@ -1,0 +1,45 @@
+@import "tailwindcss";
+/* 
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Audiowide&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family:"Poppins",sans-serif;
+  background:#050505;
+  color:#F5F5F5;
+  overflow-x:hidden;
+}
+
+h1,h2,h3{
+  font-family:"Orbitron",sans-serif;
+} */
+ */
+
+
+
+body{
+    background:#050505;
+    color:white;
+}
+
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#ff003c;
+    border-radius:20px;
+}
+
+::-webkit-scrollbar-track{
+    background:#111;
+}
