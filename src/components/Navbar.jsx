@@ -34,7 +34,7 @@ export default function Navbar() {
                 : "bg-transparent"
                 }`}
         >
-            <div className="max-w-7xl mx-auto h-16 lg:h-1 flex items-center justify-between px-5">
+            <div className="max-w-7xl mx-auto h-22 flex items-center justify-between px-6">
 
                 {/* Logo */}
 
@@ -45,7 +45,7 @@ export default function Navbar() {
                 >
                     <img
                         src={logo}
-                        className="h-15 drop-shadow-[0_0_18px_#ff003c]"
+                        className="h-22 drop-shadow-[0_0_18px_#ff003c]"
                         alt=""
                     />
                 </motion.a>
