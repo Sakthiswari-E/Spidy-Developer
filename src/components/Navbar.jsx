@@ -45,7 +45,7 @@ export default function Navbar() {
                 >
                     <img
                         src={logo}
-                        className="h-22 drop-shadow-[0_0_18px_#ff003c]"
+                        className="h-15 drop-shadow-[0_0_18px_#ff003c]"
                         alt=""
                     />
                 </motion.a>
