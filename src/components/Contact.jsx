@@ -132,7 +132,7 @@ export default function Contact() {
                             </a>
 
                             <a
-                                href="https://www.instagram.com/yuvan_bommi"
+                                href="https://www.instagram.com/spidy_developer"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="w-16 h-16 rounded-full bg-[#121212] border border-red-500/20 flex items-center justify-center text-pink-500 hover:bg-pink-500 hover:text-white transition-all duration-300 hover:scale-110"
